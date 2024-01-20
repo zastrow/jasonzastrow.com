@@ -1,0 +1,13 @@
+{
+  "name": "jasonzastrow.com",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "eleventy"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eleventy": "^1.0.6"
+  }
+}
